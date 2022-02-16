@@ -12,3 +12,6 @@ apartir de aqui comienza la cabecera
 continuandi mi historia 
 
 antriomente vivia en cali 
+
+
+y ahora estoy aprendiendo Git y Git HuB
